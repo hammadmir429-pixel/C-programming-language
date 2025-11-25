@@ -9,7 +9,7 @@ int main() {
 
     cout << "Name:\t\tHammad Mir\n";
     cout << "Roll No:\tSet-25-16\n";
-    cout << "Department:\tDepartment:\tSoftware Engineering Technology\n";
+    cout << "Department:\tSoftware Engineering Technology\n";
     cout << "Session:\t2025-2029\n";
 
     return 0;
