@@ -16,7 +16,7 @@ cout << "\t" << endl;
 cout << "-------------------------------------------------" << endl;
 
 cout << "\t" << endl;
-cout << "this is to certify that \"Toheed Irfan\"" << endl;
+cout << "this is to certify that \"Hammad Mir\"" << endl;
 cout << "has successfully completed the" << endl;
 cout << "course \"C++ Programing\" with A+ Grade." << endl;
 cout << "\t" << endl;
